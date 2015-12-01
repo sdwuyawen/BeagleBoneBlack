@@ -1,0 +1,22 @@
+*.o
+*.dis
+*.cmd
+*.mod
+*.ko
+*.mod.c
+
+*.bin
+*.elf
+
+#source insight project files
+*.IAB
+*.IAD
+*.IMB
+*.IMD
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+*.WK3
+*.SearchResults

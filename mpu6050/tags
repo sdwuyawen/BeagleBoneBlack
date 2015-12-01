@@ -1,0 +1,595 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BBB_I2C_file	I2Cdev.cpp	63;"	d	file:
+CheckTimer	SimpleTimer.h	/^	bool CheckTimer(){$/;"	f	class:SimpleTimer
+GetTime_from_T0sec	SimpleTimer.h	/^	double GetTime_from_T0sec(){$/;"	f	class:SimpleTimer
+I2Cdev	I2Cdev.cpp	/^I2Cdev::I2Cdev() {$/;"	f	class:I2Cdev
+I2Cdev	I2Cdev.h	/^class I2Cdev {$/;"	c
+IMUtimeStamper	MPU6050.h	/^        SimpleTimer IMUtimeStamper;$/;"	m	class:MPU6050
+MPU6050	MPU6050.cpp	/^MPU6050::MPU6050() {$/;"	f	class:MPU6050
+MPU6050	MPU6050.cpp	/^MPU6050::MPU6050(uint8_t address) {$/;"	f	class:MPU6050
+MPU6050	MPU6050.h	/^class MPU6050 {$/;"	c
+MPU6050_ACCEL_FIFO_EN_BIT	MPU6050.h	238;"	d
+MPU6050_ACCEL_FS_16	MPU6050.h	225;"	d
+MPU6050_ACCEL_FS_2	MPU6050.h	222;"	d
+MPU6050_ACCEL_FS_4	MPU6050.h	223;"	d
+MPU6050_ACCEL_FS_8	MPU6050.h	224;"	d
+MPU6050_ACONFIG_ACCEL_HPF_BIT	MPU6050.h	219;"	d
+MPU6050_ACONFIG_ACCEL_HPF_LENGTH	MPU6050.h	220;"	d
+MPU6050_ACONFIG_AFS_SEL_BIT	MPU6050.h	217;"	d
+MPU6050_ACONFIG_AFS_SEL_LENGTH	MPU6050.h	218;"	d
+MPU6050_ACONFIG_XA_ST_BIT	MPU6050.h	214;"	d
+MPU6050_ACONFIG_YA_ST_BIT	MPU6050.h	215;"	d
+MPU6050_ACONFIG_ZA_ST_BIT	MPU6050.h	216;"	d
+MPU6050_ADDRESS_AD0_HIGH	MPU6050.h	62;"	d
+MPU6050_ADDRESS_AD0_LOW	MPU6050.h	61;"	d
+MPU6050_BANKSEL_CFG_USER_BANK_BIT	MPU6050.h	404;"	d
+MPU6050_BANKSEL_MEM_SEL_BIT	MPU6050.h	405;"	d
+MPU6050_BANKSEL_MEM_SEL_LENGTH	MPU6050.h	406;"	d
+MPU6050_BANKSEL_PRFTCH_EN_BIT	MPU6050.h	403;"	d
+MPU6050_CFG_DLPF_CFG_BIT	MPU6050.h	186;"	d
+MPU6050_CFG_DLPF_CFG_LENGTH	MPU6050.h	187;"	d
+MPU6050_CFG_EXT_SYNC_SET_BIT	MPU6050.h	184;"	d
+MPU6050_CFG_EXT_SYNC_SET_LENGTH	MPU6050.h	185;"	d
+MPU6050_CLOCK_DIV_258	MPU6050.h	258;"	d
+MPU6050_CLOCK_DIV_267	MPU6050.h	257;"	d
+MPU6050_CLOCK_DIV_276	MPU6050.h	256;"	d
+MPU6050_CLOCK_DIV_286	MPU6050.h	255;"	d
+MPU6050_CLOCK_DIV_296	MPU6050.h	254;"	d
+MPU6050_CLOCK_DIV_308	MPU6050.h	253;"	d
+MPU6050_CLOCK_DIV_320	MPU6050.h	252;"	d
+MPU6050_CLOCK_DIV_333	MPU6050.h	251;"	d
+MPU6050_CLOCK_DIV_348	MPU6050.h	250;"	d
+MPU6050_CLOCK_DIV_364	MPU6050.h	265;"	d
+MPU6050_CLOCK_DIV_381	MPU6050.h	264;"	d
+MPU6050_CLOCK_DIV_400	MPU6050.h	263;"	d
+MPU6050_CLOCK_DIV_421	MPU6050.h	262;"	d
+MPU6050_CLOCK_DIV_444	MPU6050.h	261;"	d
+MPU6050_CLOCK_DIV_471	MPU6050.h	260;"	d
+MPU6050_CLOCK_DIV_500	MPU6050.h	259;"	d
+MPU6050_CLOCK_INTERNAL	MPU6050.h	381;"	d
+MPU6050_CLOCK_KEEP_RESET	MPU6050.h	387;"	d
+MPU6050_CLOCK_PLL_EXT19M	MPU6050.h	386;"	d
+MPU6050_CLOCK_PLL_EXT32K	MPU6050.h	385;"	d
+MPU6050_CLOCK_PLL_XGYRO	MPU6050.h	382;"	d
+MPU6050_CLOCK_PLL_YGYRO	MPU6050.h	383;"	d
+MPU6050_CLOCK_PLL_ZGYRO	MPU6050.h	384;"	d
+MPU6050_DEFAULT_ADDRESS	MPU6050.h	63;"	d
+MPU6050_DELAYCTRL_DELAY_ES_SHADOW_BIT	MPU6050.h	342;"	d
+MPU6050_DELAYCTRL_I2C_SLV0_DLY_EN_BIT	MPU6050.h	347;"	d
+MPU6050_DELAYCTRL_I2C_SLV1_DLY_EN_BIT	MPU6050.h	346;"	d
+MPU6050_DELAYCTRL_I2C_SLV2_DLY_EN_BIT	MPU6050.h	345;"	d
+MPU6050_DELAYCTRL_I2C_SLV3_DLY_EN_BIT	MPU6050.h	344;"	d
+MPU6050_DELAYCTRL_I2C_SLV4_DLY_EN_BIT	MPU6050.h	343;"	d
+MPU6050_DETECT_ACCEL_ON_DELAY_BIT	MPU6050.h	353;"	d
+MPU6050_DETECT_ACCEL_ON_DELAY_LENGTH	MPU6050.h	354;"	d
+MPU6050_DETECT_DECREMENT_1	MPU6050.h	361;"	d
+MPU6050_DETECT_DECREMENT_2	MPU6050.h	362;"	d
+MPU6050_DETECT_DECREMENT_4	MPU6050.h	363;"	d
+MPU6050_DETECT_DECREMENT_RESET	MPU6050.h	360;"	d
+MPU6050_DETECT_FF_COUNT_BIT	MPU6050.h	355;"	d
+MPU6050_DETECT_FF_COUNT_LENGTH	MPU6050.h	356;"	d
+MPU6050_DETECT_MOT_COUNT_BIT	MPU6050.h	357;"	d
+MPU6050_DETECT_MOT_COUNT_LENGTH	MPU6050.h	358;"	d
+MPU6050_DHPF_0P63	MPU6050.h	231;"	d
+MPU6050_DHPF_1P25	MPU6050.h	230;"	d
+MPU6050_DHPF_2P5	MPU6050.h	229;"	d
+MPU6050_DHPF_5	MPU6050.h	228;"	d
+MPU6050_DHPF_HOLD	MPU6050.h	232;"	d
+MPU6050_DHPF_RESET	MPU6050.h	227;"	d
+MPU6050_DLPF_BW_10	MPU6050.h	203;"	d
+MPU6050_DLPF_BW_188	MPU6050.h	199;"	d
+MPU6050_DLPF_BW_20	MPU6050.h	202;"	d
+MPU6050_DLPF_BW_256	MPU6050.h	198;"	d
+MPU6050_DLPF_BW_42	MPU6050.h	201;"	d
+MPU6050_DLPF_BW_5	MPU6050.h	204;"	d
+MPU6050_DLPF_BW_98	MPU6050.h	200;"	d
+MPU6050_DMPINT_0_BIT	MPU6050.h	332;"	d
+MPU6050_DMPINT_1_BIT	MPU6050.h	331;"	d
+MPU6050_DMPINT_2_BIT	MPU6050.h	330;"	d
+MPU6050_DMPINT_3_BIT	MPU6050.h	329;"	d
+MPU6050_DMPINT_4_BIT	MPU6050.h	328;"	d
+MPU6050_DMPINT_5_BIT	MPU6050.h	327;"	d
+MPU6050_DMP_MEMORY_BANKS	MPU6050.h	411;"	d
+MPU6050_DMP_MEMORY_BANK_SIZE	MPU6050.h	412;"	d
+MPU6050_DMP_MEMORY_CHUNK_SIZE	MPU6050.h	413;"	d
+MPU6050_EXT_SYNC_ACCEL_XOUT_L	MPU6050.h	194;"	d
+MPU6050_EXT_SYNC_ACCEL_YOUT_L	MPU6050.h	195;"	d
+MPU6050_EXT_SYNC_ACCEL_ZOUT_L	MPU6050.h	196;"	d
+MPU6050_EXT_SYNC_DISABLED	MPU6050.h	189;"	d
+MPU6050_EXT_SYNC_GYRO_XOUT_L	MPU6050.h	191;"	d
+MPU6050_EXT_SYNC_GYRO_YOUT_L	MPU6050.h	192;"	d
+MPU6050_EXT_SYNC_GYRO_ZOUT_L	MPU6050.h	193;"	d
+MPU6050_EXT_SYNC_TEMP_OUT_L	MPU6050.h	190;"	d
+MPU6050_GCONFIG_FS_SEL_BIT	MPU6050.h	206;"	d
+MPU6050_GCONFIG_FS_SEL_LENGTH	MPU6050.h	207;"	d
+MPU6050_GYRO_FS_1000	MPU6050.h	211;"	d
+MPU6050_GYRO_FS_2000	MPU6050.h	212;"	d
+MPU6050_GYRO_FS_250	MPU6050.h	209;"	d
+MPU6050_GYRO_FS_500	MPU6050.h	210;"	d
+MPU6050_I2C_MST_CLK_BIT	MPU6050.h	247;"	d
+MPU6050_I2C_MST_CLK_LENGTH	MPU6050.h	248;"	d
+MPU6050_I2C_MST_P_NSR_BIT	MPU6050.h	246;"	d
+MPU6050_I2C_SLV4_ADDR_BIT	MPU6050.h	278;"	d
+MPU6050_I2C_SLV4_ADDR_LENGTH	MPU6050.h	279;"	d
+MPU6050_I2C_SLV4_EN_BIT	MPU6050.h	280;"	d
+MPU6050_I2C_SLV4_INT_EN_BIT	MPU6050.h	281;"	d
+MPU6050_I2C_SLV4_MST_DLY_BIT	MPU6050.h	283;"	d
+MPU6050_I2C_SLV4_MST_DLY_LENGTH	MPU6050.h	284;"	d
+MPU6050_I2C_SLV4_REG_DIS_BIT	MPU6050.h	282;"	d
+MPU6050_I2C_SLV4_RW_BIT	MPU6050.h	277;"	d
+MPU6050_I2C_SLV_ADDR_BIT	MPU6050.h	268;"	d
+MPU6050_I2C_SLV_ADDR_LENGTH	MPU6050.h	269;"	d
+MPU6050_I2C_SLV_BYTE_SW_BIT	MPU6050.h	271;"	d
+MPU6050_I2C_SLV_EN_BIT	MPU6050.h	270;"	d
+MPU6050_I2C_SLV_GRP_BIT	MPU6050.h	273;"	d
+MPU6050_I2C_SLV_LEN_BIT	MPU6050.h	274;"	d
+MPU6050_I2C_SLV_LEN_LENGTH	MPU6050.h	275;"	d
+MPU6050_I2C_SLV_REG_DIS_BIT	MPU6050.h	272;"	d
+MPU6050_I2C_SLV_RW_BIT	MPU6050.h	267;"	d
+MPU6050_INTCFG_CLKOUT_EN_BIT	MPU6050.h	302;"	d
+MPU6050_INTCFG_FSYNC_INT_EN_BIT	MPU6050.h	300;"	d
+MPU6050_INTCFG_FSYNC_INT_LEVEL_BIT	MPU6050.h	299;"	d
+MPU6050_INTCFG_I2C_BYPASS_EN_BIT	MPU6050.h	301;"	d
+MPU6050_INTCFG_INT_LEVEL_BIT	MPU6050.h	295;"	d
+MPU6050_INTCFG_INT_OPEN_BIT	MPU6050.h	296;"	d
+MPU6050_INTCFG_INT_RD_CLEAR_BIT	MPU6050.h	298;"	d
+MPU6050_INTCFG_LATCH_INT_EN_BIT	MPU6050.h	297;"	d
+MPU6050_INTCLEAR_ANYREAD	MPU6050.h	314;"	d
+MPU6050_INTCLEAR_STATUSREAD	MPU6050.h	313;"	d
+MPU6050_INTDRV_OPENDRAIN	MPU6050.h	308;"	d
+MPU6050_INTDRV_PUSHPULL	MPU6050.h	307;"	d
+MPU6050_INTERRUPT_DATA_RDY_BIT	MPU6050.h	323;"	d
+MPU6050_INTERRUPT_DMP_INT_BIT	MPU6050.h	322;"	d
+MPU6050_INTERRUPT_FF_BIT	MPU6050.h	316;"	d
+MPU6050_INTERRUPT_FIFO_OFLOW_BIT	MPU6050.h	319;"	d
+MPU6050_INTERRUPT_I2C_MST_INT_BIT	MPU6050.h	320;"	d
+MPU6050_INTERRUPT_MOT_BIT	MPU6050.h	317;"	d
+MPU6050_INTERRUPT_PLL_RDY_INT_BIT	MPU6050.h	321;"	d
+MPU6050_INTERRUPT_ZMOT_BIT	MPU6050.h	318;"	d
+MPU6050_INTLATCH_50USPULSE	MPU6050.h	310;"	d
+MPU6050_INTLATCH_WAITCLEAR	MPU6050.h	311;"	d
+MPU6050_INTMODE_ACTIVEHIGH	MPU6050.h	304;"	d
+MPU6050_INTMODE_ACTIVELOW	MPU6050.h	305;"	d
+MPU6050_MOTION_MOT_XNEG_BIT	MPU6050.h	334;"	d
+MPU6050_MOTION_MOT_XPOS_BIT	MPU6050.h	335;"	d
+MPU6050_MOTION_MOT_YNEG_BIT	MPU6050.h	336;"	d
+MPU6050_MOTION_MOT_YPOS_BIT	MPU6050.h	337;"	d
+MPU6050_MOTION_MOT_ZNEG_BIT	MPU6050.h	338;"	d
+MPU6050_MOTION_MOT_ZPOS_BIT	MPU6050.h	339;"	d
+MPU6050_MOTION_MOT_ZRMOT_BIT	MPU6050.h	340;"	d
+MPU6050_MST_I2C_LOST_ARB_BIT	MPU6050.h	288;"	d
+MPU6050_MST_I2C_SLV0_NACK_BIT	MPU6050.h	293;"	d
+MPU6050_MST_I2C_SLV1_NACK_BIT	MPU6050.h	292;"	d
+MPU6050_MST_I2C_SLV2_NACK_BIT	MPU6050.h	291;"	d
+MPU6050_MST_I2C_SLV3_NACK_BIT	MPU6050.h	290;"	d
+MPU6050_MST_I2C_SLV4_DONE_BIT	MPU6050.h	287;"	d
+MPU6050_MST_I2C_SLV4_NACK_BIT	MPU6050.h	289;"	d
+MPU6050_MST_PASS_THROUGH_BIT	MPU6050.h	286;"	d
+MPU6050_MULT_MST_EN_BIT	MPU6050.h	243;"	d
+MPU6050_PATHRESET_ACCEL_RESET_BIT	MPU6050.h	350;"	d
+MPU6050_PATHRESET_GYRO_RESET_BIT	MPU6050.h	349;"	d
+MPU6050_PATHRESET_TEMP_RESET_BIT	MPU6050.h	351;"	d
+MPU6050_PWR1_CLKSEL_BIT	MPU6050.h	378;"	d
+MPU6050_PWR1_CLKSEL_LENGTH	MPU6050.h	379;"	d
+MPU6050_PWR1_CYCLE_BIT	MPU6050.h	376;"	d
+MPU6050_PWR1_DEVICE_RESET_BIT	MPU6050.h	374;"	d
+MPU6050_PWR1_SLEEP_BIT	MPU6050.h	375;"	d
+MPU6050_PWR1_TEMP_DIS_BIT	MPU6050.h	377;"	d
+MPU6050_PWR2_LP_WAKE_CTRL_BIT	MPU6050.h	389;"	d
+MPU6050_PWR2_LP_WAKE_CTRL_LENGTH	MPU6050.h	390;"	d
+MPU6050_PWR2_STBY_XA_BIT	MPU6050.h	391;"	d
+MPU6050_PWR2_STBY_XG_BIT	MPU6050.h	394;"	d
+MPU6050_PWR2_STBY_YA_BIT	MPU6050.h	392;"	d
+MPU6050_PWR2_STBY_YG_BIT	MPU6050.h	395;"	d
+MPU6050_PWR2_STBY_ZA_BIT	MPU6050.h	393;"	d
+MPU6050_PWR2_STBY_ZG_BIT	MPU6050.h	396;"	d
+MPU6050_RA_ACCEL_CONFIG	MPU6050.h	86;"	d
+MPU6050_RA_ACCEL_XOUT_H	MPU6050.h	117;"	d
+MPU6050_RA_ACCEL_XOUT_L	MPU6050.h	118;"	d
+MPU6050_RA_ACCEL_YOUT_H	MPU6050.h	119;"	d
+MPU6050_RA_ACCEL_YOUT_L	MPU6050.h	120;"	d
+MPU6050_RA_ACCEL_ZOUT_H	MPU6050.h	121;"	d
+MPU6050_RA_ACCEL_ZOUT_L	MPU6050.h	122;"	d
+MPU6050_RA_BANK_SEL	MPU6050.h	166;"	d
+MPU6050_RA_CONFIG	MPU6050.h	84;"	d
+MPU6050_RA_DMP_CFG_1	MPU6050.h	169;"	d
+MPU6050_RA_DMP_CFG_2	MPU6050.h	170;"	d
+MPU6050_RA_DMP_INT_STATUS	MPU6050.h	115;"	d
+MPU6050_RA_EXT_SENS_DATA_00	MPU6050.h	131;"	d
+MPU6050_RA_EXT_SENS_DATA_01	MPU6050.h	132;"	d
+MPU6050_RA_EXT_SENS_DATA_02	MPU6050.h	133;"	d
+MPU6050_RA_EXT_SENS_DATA_03	MPU6050.h	134;"	d
+MPU6050_RA_EXT_SENS_DATA_04	MPU6050.h	135;"	d
+MPU6050_RA_EXT_SENS_DATA_05	MPU6050.h	136;"	d
+MPU6050_RA_EXT_SENS_DATA_06	MPU6050.h	137;"	d
+MPU6050_RA_EXT_SENS_DATA_07	MPU6050.h	138;"	d
+MPU6050_RA_EXT_SENS_DATA_08	MPU6050.h	139;"	d
+MPU6050_RA_EXT_SENS_DATA_09	MPU6050.h	140;"	d
+MPU6050_RA_EXT_SENS_DATA_10	MPU6050.h	141;"	d
+MPU6050_RA_EXT_SENS_DATA_11	MPU6050.h	142;"	d
+MPU6050_RA_EXT_SENS_DATA_12	MPU6050.h	143;"	d
+MPU6050_RA_EXT_SENS_DATA_13	MPU6050.h	144;"	d
+MPU6050_RA_EXT_SENS_DATA_14	MPU6050.h	145;"	d
+MPU6050_RA_EXT_SENS_DATA_15	MPU6050.h	146;"	d
+MPU6050_RA_EXT_SENS_DATA_16	MPU6050.h	147;"	d
+MPU6050_RA_EXT_SENS_DATA_17	MPU6050.h	148;"	d
+MPU6050_RA_EXT_SENS_DATA_18	MPU6050.h	149;"	d
+MPU6050_RA_EXT_SENS_DATA_19	MPU6050.h	150;"	d
+MPU6050_RA_EXT_SENS_DATA_20	MPU6050.h	151;"	d
+MPU6050_RA_EXT_SENS_DATA_21	MPU6050.h	152;"	d
+MPU6050_RA_EXT_SENS_DATA_22	MPU6050.h	153;"	d
+MPU6050_RA_EXT_SENS_DATA_23	MPU6050.h	154;"	d
+MPU6050_RA_FF_DUR	MPU6050.h	88;"	d
+MPU6050_RA_FF_THR	MPU6050.h	87;"	d
+MPU6050_RA_FIFO_COUNTH	MPU6050.h	171;"	d
+MPU6050_RA_FIFO_COUNTL	MPU6050.h	172;"	d
+MPU6050_RA_FIFO_EN	MPU6050.h	93;"	d
+MPU6050_RA_FIFO_R_W	MPU6050.h	173;"	d
+MPU6050_RA_GYRO_CONFIG	MPU6050.h	85;"	d
+MPU6050_RA_GYRO_XOUT_H	MPU6050.h	125;"	d
+MPU6050_RA_GYRO_XOUT_L	MPU6050.h	126;"	d
+MPU6050_RA_GYRO_YOUT_H	MPU6050.h	127;"	d
+MPU6050_RA_GYRO_YOUT_L	MPU6050.h	128;"	d
+MPU6050_RA_GYRO_ZOUT_H	MPU6050.h	129;"	d
+MPU6050_RA_GYRO_ZOUT_L	MPU6050.h	130;"	d
+MPU6050_RA_I2C_MST_CTRL	MPU6050.h	94;"	d
+MPU6050_RA_I2C_MST_DELAY_CTRL	MPU6050.h	160;"	d
+MPU6050_RA_I2C_MST_STATUS	MPU6050.h	112;"	d
+MPU6050_RA_I2C_SLV0_ADDR	MPU6050.h	95;"	d
+MPU6050_RA_I2C_SLV0_CTRL	MPU6050.h	97;"	d
+MPU6050_RA_I2C_SLV0_DO	MPU6050.h	156;"	d
+MPU6050_RA_I2C_SLV0_REG	MPU6050.h	96;"	d
+MPU6050_RA_I2C_SLV1_ADDR	MPU6050.h	98;"	d
+MPU6050_RA_I2C_SLV1_CTRL	MPU6050.h	100;"	d
+MPU6050_RA_I2C_SLV1_DO	MPU6050.h	157;"	d
+MPU6050_RA_I2C_SLV1_REG	MPU6050.h	99;"	d
+MPU6050_RA_I2C_SLV2_ADDR	MPU6050.h	101;"	d
+MPU6050_RA_I2C_SLV2_CTRL	MPU6050.h	103;"	d
+MPU6050_RA_I2C_SLV2_DO	MPU6050.h	158;"	d
+MPU6050_RA_I2C_SLV2_REG	MPU6050.h	102;"	d
+MPU6050_RA_I2C_SLV3_ADDR	MPU6050.h	104;"	d
+MPU6050_RA_I2C_SLV3_CTRL	MPU6050.h	106;"	d
+MPU6050_RA_I2C_SLV3_DO	MPU6050.h	159;"	d
+MPU6050_RA_I2C_SLV3_REG	MPU6050.h	105;"	d
+MPU6050_RA_I2C_SLV4_ADDR	MPU6050.h	107;"	d
+MPU6050_RA_I2C_SLV4_CTRL	MPU6050.h	110;"	d
+MPU6050_RA_I2C_SLV4_DI	MPU6050.h	111;"	d
+MPU6050_RA_I2C_SLV4_DO	MPU6050.h	109;"	d
+MPU6050_RA_I2C_SLV4_REG	MPU6050.h	108;"	d
+MPU6050_RA_INT_ENABLE	MPU6050.h	114;"	d
+MPU6050_RA_INT_PIN_CFG	MPU6050.h	113;"	d
+MPU6050_RA_INT_STATUS	MPU6050.h	116;"	d
+MPU6050_RA_MEM_R_W	MPU6050.h	168;"	d
+MPU6050_RA_MEM_START_ADDR	MPU6050.h	167;"	d
+MPU6050_RA_MOT_DETECT_CTRL	MPU6050.h	162;"	d
+MPU6050_RA_MOT_DETECT_STATUS	MPU6050.h	155;"	d
+MPU6050_RA_MOT_DUR	MPU6050.h	90;"	d
+MPU6050_RA_MOT_THR	MPU6050.h	89;"	d
+MPU6050_RA_PWR_MGMT_1	MPU6050.h	164;"	d
+MPU6050_RA_PWR_MGMT_2	MPU6050.h	165;"	d
+MPU6050_RA_SIGNAL_PATH_RESET	MPU6050.h	161;"	d
+MPU6050_RA_SMPLRT_DIV	MPU6050.h	83;"	d
+MPU6050_RA_TEMP_OUT_H	MPU6050.h	123;"	d
+MPU6050_RA_TEMP_OUT_L	MPU6050.h	124;"	d
+MPU6050_RA_USER_CTRL	MPU6050.h	163;"	d
+MPU6050_RA_WHO_AM_I	MPU6050.h	174;"	d
+MPU6050_RA_XA_OFFS_H	MPU6050.h	71;"	d
+MPU6050_RA_XA_OFFS_L_TC	MPU6050.h	72;"	d
+MPU6050_RA_XG_OFFS_TC	MPU6050.h	65;"	d
+MPU6050_RA_XG_OFFS_USRH	MPU6050.h	77;"	d
+MPU6050_RA_XG_OFFS_USRL	MPU6050.h	78;"	d
+MPU6050_RA_X_FINE_GAIN	MPU6050.h	68;"	d
+MPU6050_RA_YA_OFFS_H	MPU6050.h	73;"	d
+MPU6050_RA_YA_OFFS_L_TC	MPU6050.h	74;"	d
+MPU6050_RA_YG_OFFS_TC	MPU6050.h	66;"	d
+MPU6050_RA_YG_OFFS_USRH	MPU6050.h	79;"	d
+MPU6050_RA_YG_OFFS_USRL	MPU6050.h	80;"	d
+MPU6050_RA_Y_FINE_GAIN	MPU6050.h	69;"	d
+MPU6050_RA_ZA_OFFS_H	MPU6050.h	75;"	d
+MPU6050_RA_ZA_OFFS_L_TC	MPU6050.h	76;"	d
+MPU6050_RA_ZG_OFFS_TC	MPU6050.h	67;"	d
+MPU6050_RA_ZG_OFFS_USRH	MPU6050.h	81;"	d
+MPU6050_RA_ZG_OFFS_USRL	MPU6050.h	82;"	d
+MPU6050_RA_ZRMOT_DUR	MPU6050.h	92;"	d
+MPU6050_RA_ZRMOT_THR	MPU6050.h	91;"	d
+MPU6050_RA_Z_FINE_GAIN	MPU6050.h	70;"	d
+MPU6050_SLV0_FIFO_EN_BIT	MPU6050.h	241;"	d
+MPU6050_SLV1_FIFO_EN_BIT	MPU6050.h	240;"	d
+MPU6050_SLV2_FIFO_EN_BIT	MPU6050.h	239;"	d
+MPU6050_SLV_3_FIFO_EN_BIT	MPU6050.h	245;"	d
+MPU6050_TC_OFFSET_BIT	MPU6050.h	177;"	d
+MPU6050_TC_OFFSET_LENGTH	MPU6050.h	178;"	d
+MPU6050_TC_OTP_BNK_VLD_BIT	MPU6050.h	179;"	d
+MPU6050_TC_PWR_MODE_BIT	MPU6050.h	176;"	d
+MPU6050_TEMP_FIFO_EN_BIT	MPU6050.h	234;"	d
+MPU6050_USERCTRL_DMP_EN_BIT	MPU6050.h	365;"	d
+MPU6050_USERCTRL_DMP_RESET_BIT	MPU6050.h	369;"	d
+MPU6050_USERCTRL_FIFO_EN_BIT	MPU6050.h	366;"	d
+MPU6050_USERCTRL_FIFO_RESET_BIT	MPU6050.h	370;"	d
+MPU6050_USERCTRL_I2C_IF_DIS_BIT	MPU6050.h	368;"	d
+MPU6050_USERCTRL_I2C_MST_EN_BIT	MPU6050.h	367;"	d
+MPU6050_USERCTRL_I2C_MST_RESET_BIT	MPU6050.h	371;"	d
+MPU6050_USERCTRL_SIG_COND_RESET_BIT	MPU6050.h	372;"	d
+MPU6050_VDDIO_LEVEL_VDD	MPU6050.h	182;"	d
+MPU6050_VDDIO_LEVEL_VLOGIC	MPU6050.h	181;"	d
+MPU6050_WAIT_FOR_ES_BIT	MPU6050.h	244;"	d
+MPU6050_WAKE_FREQ_10	MPU6050.h	401;"	d
+MPU6050_WAKE_FREQ_1P25	MPU6050.h	398;"	d
+MPU6050_WAKE_FREQ_2P5	MPU6050.h	399;"	d
+MPU6050_WAKE_FREQ_5	MPU6050.h	400;"	d
+MPU6050_WHO_AM_I_BIT	MPU6050.h	408;"	d
+MPU6050_WHO_AM_I_LENGTH	MPU6050.h	409;"	d
+MPU6050_XG_FIFO_EN_BIT	MPU6050.h	235;"	d
+MPU6050_YG_FIFO_EN_BIT	MPU6050.h	236;"	d
+MPU6050_ZG_FIFO_EN_BIT	MPU6050.h	237;"	d
+ResetTimer	SimpleTimer.h	/^	void ResetTimer(){$/;"	f	class:SimpleTimer
+SIMPLETIMER_H_	SimpleTimer.h	9;"	d
+SetTsec	SimpleTimer.h	/^	void SetTsec(double tsec){$/;"	f	class:SimpleTimer
+SimpleTimer	SimpleTimer.h	/^class SimpleTimer {$/;"	c
+T0sec	SimpleTimer.h	/^	double Tsec,T0sec;$/;"	m	class:SimpleTimer
+Tsec	SimpleTimer.h	/^	double Tsec,T0sec;$/;"	m	class:SimpleTimer
+_I2CDEV_H_	I2Cdev.h	49;"	d
+_MPU6050_H_	MPU6050.h	41;"	d
+buffer	MPU6050.h	/^        uint8_t buffer[14];$/;"	m	class:MPU6050
+devAddr	MPU6050.h	/^        uint8_t devAddr;$/;"	m	class:MPU6050
+getAccelFIFOEnabled	MPU6050.cpp	/^bool MPU6050::getAccelFIFOEnabled() {$/;"	f	class:MPU6050
+getAccelXSelfTest	MPU6050.cpp	/^bool MPU6050::getAccelXSelfTest() {$/;"	f	class:MPU6050
+getAccelYSelfTest	MPU6050.cpp	/^bool MPU6050::getAccelYSelfTest() {$/;"	f	class:MPU6050
+getAccelZSelfTest	MPU6050.cpp	/^bool MPU6050::getAccelZSelfTest() {$/;"	f	class:MPU6050
+getAcceleration	MPU6050.cpp	/^void MPU6050::getAcceleration(int16_t* x, int16_t* y, int16_t* z) {$/;"	f	class:MPU6050
+getAccelerationX	MPU6050.cpp	/^int16_t MPU6050::getAccelerationX() {$/;"	f	class:MPU6050
+getAccelerationY	MPU6050.cpp	/^int16_t MPU6050::getAccelerationY() {$/;"	f	class:MPU6050
+getAccelerationZ	MPU6050.cpp	/^int16_t MPU6050::getAccelerationZ() {$/;"	f	class:MPU6050
+getAccelerometerPowerOnDelay	MPU6050.cpp	/^uint8_t MPU6050::getAccelerometerPowerOnDelay() {$/;"	f	class:MPU6050
+getAuxVDDIOLevel	MPU6050.cpp	/^uint8_t MPU6050::getAuxVDDIOLevel() {$/;"	f	class:MPU6050
+getClockOutputEnabled	MPU6050.cpp	/^bool MPU6050::getClockOutputEnabled() {$/;"	f	class:MPU6050
+getClockSource	MPU6050.cpp	/^uint8_t MPU6050::getClockSource() {$/;"	f	class:MPU6050
+getDHPFMode	MPU6050.cpp	/^uint8_t MPU6050::getDHPFMode() {$/;"	f	class:MPU6050
+getDLPFMode	MPU6050.cpp	/^uint8_t MPU6050::getDLPFMode() {$/;"	f	class:MPU6050
+getDeviceID	MPU6050.cpp	/^uint8_t MPU6050::getDeviceID() {$/;"	f	class:MPU6050
+getExternalFrameSync	MPU6050.cpp	/^uint8_t MPU6050::getExternalFrameSync() {$/;"	f	class:MPU6050
+getExternalSensorByte	MPU6050.cpp	/^uint8_t MPU6050::getExternalSensorByte(int position) {$/;"	f	class:MPU6050
+getExternalSensorDWord	MPU6050.cpp	/^uint32_t MPU6050::getExternalSensorDWord(int position) {$/;"	f	class:MPU6050
+getExternalSensorWord	MPU6050.cpp	/^uint16_t MPU6050::getExternalSensorWord(int position) {$/;"	f	class:MPU6050
+getExternalShadowDelayEnabled	MPU6050.cpp	/^bool MPU6050::getExternalShadowDelayEnabled() {$/;"	f	class:MPU6050
+getFIFOByte	MPU6050.cpp	/^uint8_t MPU6050::getFIFOByte() {$/;"	f	class:MPU6050
+getFIFOBytes	MPU6050.cpp	/^void MPU6050::getFIFOBytes(uint8_t *data, uint8_t length) {$/;"	f	class:MPU6050
+getFIFOCount	MPU6050.cpp	/^uint16_t MPU6050::getFIFOCount() {$/;"	f	class:MPU6050
+getFIFOEnabled	MPU6050.cpp	/^bool MPU6050::getFIFOEnabled() {$/;"	f	class:MPU6050
+getFSyncInterruptEnabled	MPU6050.cpp	/^bool MPU6050::getFSyncInterruptEnabled() {$/;"	f	class:MPU6050
+getFSyncInterruptLevel	MPU6050.cpp	/^bool MPU6050::getFSyncInterruptLevel() {$/;"	f	class:MPU6050
+getFreefallDetectionCounterDecrement	MPU6050.cpp	/^uint8_t MPU6050::getFreefallDetectionCounterDecrement() {$/;"	f	class:MPU6050
+getFreefallDetectionDuration	MPU6050.cpp	/^uint8_t MPU6050::getFreefallDetectionDuration() {$/;"	f	class:MPU6050
+getFreefallDetectionThreshold	MPU6050.cpp	/^uint8_t MPU6050::getFreefallDetectionThreshold() {$/;"	f	class:MPU6050
+getFullScaleAccelRange	MPU6050.cpp	/^uint8_t MPU6050::getFullScaleAccelRange() {$/;"	f	class:MPU6050
+getFullScaleGyroRange	MPU6050.cpp	/^uint8_t MPU6050::getFullScaleGyroRange() {$/;"	f	class:MPU6050
+getI2CBypassEnabled	MPU6050.cpp	/^bool MPU6050::getI2CBypassEnabled() {$/;"	f	class:MPU6050
+getI2CMasterModeEnabled	MPU6050.cpp	/^bool MPU6050::getI2CMasterModeEnabled() {$/;"	f	class:MPU6050
+getIntDMPEnabled	MPU6050.cpp	/^bool MPU6050::getIntDMPEnabled() {$/;"	f	class:MPU6050
+getIntDataReadyEnabled	MPU6050.cpp	/^bool MPU6050::getIntDataReadyEnabled() {$/;"	f	class:MPU6050
+getIntDataReadyStatus	MPU6050.cpp	/^bool MPU6050::getIntDataReadyStatus() {$/;"	f	class:MPU6050
+getIntEnabled	MPU6050.cpp	/^uint8_t MPU6050::getIntEnabled() {$/;"	f	class:MPU6050
+getIntFIFOBufferOverflowEnabled	MPU6050.cpp	/^bool MPU6050::getIntFIFOBufferOverflowEnabled() {$/;"	f	class:MPU6050
+getIntFIFOBufferOverflowStatus	MPU6050.cpp	/^bool MPU6050::getIntFIFOBufferOverflowStatus() {$/;"	f	class:MPU6050
+getIntFreefallEnabled	MPU6050.cpp	/^bool MPU6050::getIntFreefallEnabled() {$/;"	f	class:MPU6050
+getIntFreefallStatus	MPU6050.cpp	/^bool MPU6050::getIntFreefallStatus() {$/;"	f	class:MPU6050
+getIntI2CMasterEnabled	MPU6050.cpp	/^bool MPU6050::getIntI2CMasterEnabled() {$/;"	f	class:MPU6050
+getIntI2CMasterStatus	MPU6050.cpp	/^bool MPU6050::getIntI2CMasterStatus() {$/;"	f	class:MPU6050
+getIntMotionEnabled	MPU6050.cpp	/^bool MPU6050::getIntMotionEnabled() {$/;"	f	class:MPU6050
+getIntMotionStatus	MPU6050.cpp	/^bool MPU6050::getIntMotionStatus() {$/;"	f	class:MPU6050
+getIntPLLReadyEnabled	MPU6050.cpp	/^bool MPU6050::getIntPLLReadyEnabled() {$/;"	f	class:MPU6050
+getIntStatus	MPU6050.cpp	/^uint8_t MPU6050::getIntStatus() {$/;"	f	class:MPU6050
+getIntZeroMotionEnabled	MPU6050.cpp	/^bool MPU6050::getIntZeroMotionEnabled() {$/;"	f	class:MPU6050
+getIntZeroMotionStatus	MPU6050.cpp	/^bool MPU6050::getIntZeroMotionStatus() {$/;"	f	class:MPU6050
+getInterruptDrive	MPU6050.cpp	/^bool MPU6050::getInterruptDrive() {$/;"	f	class:MPU6050
+getInterruptLatch	MPU6050.cpp	/^bool MPU6050::getInterruptLatch() {$/;"	f	class:MPU6050
+getInterruptLatchClear	MPU6050.cpp	/^bool MPU6050::getInterruptLatchClear() {$/;"	f	class:MPU6050
+getInterruptMode	MPU6050.cpp	/^bool MPU6050::getInterruptMode() {$/;"	f	class:MPU6050
+getLostArbitration	MPU6050.cpp	/^bool MPU6050::getLostArbitration() {$/;"	f	class:MPU6050
+getMasterClockSpeed	MPU6050.cpp	/^uint8_t MPU6050::getMasterClockSpeed() {$/;"	f	class:MPU6050
+getMotion6	MPU6050.cpp	/^void MPU6050::getMotion6(int16_t* ax, int16_t* ay, int16_t* az, int16_t* gx, int16_t* gy, int16_t* gz) {$/;"	f	class:MPU6050
+getMotion9	MPU6050.cpp	/^void MPU6050::getMotion9(int16_t* ax, int16_t* ay, int16_t* az, int16_t* gx, int16_t* gy, int16_t* gz, int16_t* mx, int16_t* my, int16_t* mz) {$/;"	f	class:MPU6050
+getMotionDetectionCounterDecrement	MPU6050.cpp	/^uint8_t MPU6050::getMotionDetectionCounterDecrement() {$/;"	f	class:MPU6050
+getMotionDetectionDuration	MPU6050.cpp	/^uint8_t MPU6050::getMotionDetectionDuration() {$/;"	f	class:MPU6050
+getMotionDetectionThreshold	MPU6050.cpp	/^uint8_t MPU6050::getMotionDetectionThreshold() {$/;"	f	class:MPU6050
+getMultiMasterEnabled	MPU6050.cpp	/^bool MPU6050::getMultiMasterEnabled() {$/;"	f	class:MPU6050
+getOTPBankValid	MPU6050.cpp	/^uint8_t MPU6050::getOTPBankValid() {$/;"	f	class:MPU6050
+getPassthroughStatus	MPU6050.cpp	/^bool MPU6050::getPassthroughStatus() {$/;"	f	class:MPU6050
+getRate	MPU6050.cpp	/^uint8_t MPU6050::getRate() {$/;"	f	class:MPU6050
+getRotation	MPU6050.cpp	/^void MPU6050::getRotation(int16_t* x, int16_t* y, int16_t* z) {$/;"	f	class:MPU6050
+getRotationX	MPU6050.cpp	/^int16_t MPU6050::getRotationX() {$/;"	f	class:MPU6050
+getRotationY	MPU6050.cpp	/^int16_t MPU6050::getRotationY() {$/;"	f	class:MPU6050
+getRotationZ	MPU6050.cpp	/^int16_t MPU6050::getRotationZ() {$/;"	f	class:MPU6050
+getScaledaccgyro_timestamped	MPU6050.h	/^double * getScaledaccgyro_timestamped(double *AccGyro){$/;"	f	class:MPU6050
+getSlate4InputByte	MPU6050.cpp	/^uint8_t MPU6050::getSlate4InputByte() {$/;"	f	class:MPU6050
+getSlave0FIFOEnabled	MPU6050.cpp	/^bool MPU6050::getSlave0FIFOEnabled() {$/;"	f	class:MPU6050
+getSlave0Nack	MPU6050.cpp	/^bool MPU6050::getSlave0Nack() {$/;"	f	class:MPU6050
+getSlave1FIFOEnabled	MPU6050.cpp	/^bool MPU6050::getSlave1FIFOEnabled() {$/;"	f	class:MPU6050
+getSlave1Nack	MPU6050.cpp	/^bool MPU6050::getSlave1Nack() {$/;"	f	class:MPU6050
+getSlave2FIFOEnabled	MPU6050.cpp	/^bool MPU6050::getSlave2FIFOEnabled() {$/;"	f	class:MPU6050
+getSlave2Nack	MPU6050.cpp	/^bool MPU6050::getSlave2Nack() {$/;"	f	class:MPU6050
+getSlave3FIFOEnabled	MPU6050.cpp	/^bool MPU6050::getSlave3FIFOEnabled() {$/;"	f	class:MPU6050
+getSlave3Nack	MPU6050.cpp	/^bool MPU6050::getSlave3Nack() {$/;"	f	class:MPU6050
+getSlave4Address	MPU6050.cpp	/^uint8_t MPU6050::getSlave4Address() {$/;"	f	class:MPU6050
+getSlave4Enabled	MPU6050.cpp	/^bool MPU6050::getSlave4Enabled() {$/;"	f	class:MPU6050
+getSlave4InterruptEnabled	MPU6050.cpp	/^bool MPU6050::getSlave4InterruptEnabled() {$/;"	f	class:MPU6050
+getSlave4IsDone	MPU6050.cpp	/^bool MPU6050::getSlave4IsDone() {$/;"	f	class:MPU6050
+getSlave4MasterDelay	MPU6050.cpp	/^uint8_t MPU6050::getSlave4MasterDelay() {$/;"	f	class:MPU6050
+getSlave4Nack	MPU6050.cpp	/^bool MPU6050::getSlave4Nack() {$/;"	f	class:MPU6050
+getSlave4Register	MPU6050.cpp	/^uint8_t MPU6050::getSlave4Register() {$/;"	f	class:MPU6050
+getSlave4WriteMode	MPU6050.cpp	/^bool MPU6050::getSlave4WriteMode() {$/;"	f	class:MPU6050
+getSlaveAddress	MPU6050.cpp	/^uint8_t MPU6050::getSlaveAddress(uint8_t num) {$/;"	f	class:MPU6050
+getSlaveDataLength	MPU6050.cpp	/^uint8_t MPU6050::getSlaveDataLength(uint8_t num) {$/;"	f	class:MPU6050
+getSlaveDelayEnabled	MPU6050.cpp	/^bool MPU6050::getSlaveDelayEnabled(uint8_t num) {$/;"	f	class:MPU6050
+getSlaveEnabled	MPU6050.cpp	/^bool MPU6050::getSlaveEnabled(uint8_t num) {$/;"	f	class:MPU6050
+getSlaveReadWriteTransitionEnabled	MPU6050.cpp	/^bool MPU6050::getSlaveReadWriteTransitionEnabled() {$/;"	f	class:MPU6050
+getSlaveRegister	MPU6050.cpp	/^uint8_t MPU6050::getSlaveRegister(uint8_t num) {$/;"	f	class:MPU6050
+getSlaveWordByteSwap	MPU6050.cpp	/^bool MPU6050::getSlaveWordByteSwap(uint8_t num) {$/;"	f	class:MPU6050
+getSlaveWordGroupOffset	MPU6050.cpp	/^bool MPU6050::getSlaveWordGroupOffset(uint8_t num) {$/;"	f	class:MPU6050
+getSlaveWriteMode	MPU6050.cpp	/^bool MPU6050::getSlaveWriteMode(uint8_t num) {$/;"	f	class:MPU6050
+getSleepEnabled	MPU6050.cpp	/^bool MPU6050::getSleepEnabled() {$/;"	f	class:MPU6050
+getStandbyXAccelEnabled	MPU6050.cpp	/^bool MPU6050::getStandbyXAccelEnabled() {$/;"	f	class:MPU6050
+getStandbyXGyroEnabled	MPU6050.cpp	/^bool MPU6050::getStandbyXGyroEnabled() {$/;"	f	class:MPU6050
+getStandbyYAccelEnabled	MPU6050.cpp	/^bool MPU6050::getStandbyYAccelEnabled() {$/;"	f	class:MPU6050
+getStandbyYGyroEnabled	MPU6050.cpp	/^bool MPU6050::getStandbyYGyroEnabled() {$/;"	f	class:MPU6050
+getStandbyZAccelEnabled	MPU6050.cpp	/^bool MPU6050::getStandbyZAccelEnabled() {$/;"	f	class:MPU6050
+getStandbyZGyroEnabled	MPU6050.cpp	/^bool MPU6050::getStandbyZGyroEnabled() {$/;"	f	class:MPU6050
+getTempFIFOEnabled	MPU6050.cpp	/^bool MPU6050::getTempFIFOEnabled() {$/;"	f	class:MPU6050
+getTempSensorEnabled	MPU6050.cpp	/^bool MPU6050::getTempSensorEnabled() {$/;"	f	class:MPU6050
+getTemperature	MPU6050.cpp	/^int16_t MPU6050::getTemperature() {$/;"	f	class:MPU6050
+getWaitForExternalSensorEnabled	MPU6050.cpp	/^bool MPU6050::getWaitForExternalSensorEnabled() {$/;"	f	class:MPU6050
+getWakeCycleEnabled	MPU6050.cpp	/^bool MPU6050::getWakeCycleEnabled() {$/;"	f	class:MPU6050
+getWakeFrequency	MPU6050.cpp	/^uint8_t MPU6050::getWakeFrequency() {$/;"	f	class:MPU6050
+getXAccelOffset	MPU6050.cpp	/^int16_t MPU6050::getXAccelOffset() {$/;"	f	class:MPU6050
+getXFineGain	MPU6050.cpp	/^int8_t MPU6050::getXFineGain() {$/;"	f	class:MPU6050
+getXGyroFIFOEnabled	MPU6050.cpp	/^bool MPU6050::getXGyroFIFOEnabled() {$/;"	f	class:MPU6050
+getXGyroOffset	MPU6050.cpp	/^int16_t MPU6050::getXGyroOffset() {$/;"	f	class:MPU6050
+getXGyroOffsetTC	MPU6050.cpp	/^int8_t MPU6050::getXGyroOffsetTC() {$/;"	f	class:MPU6050
+getXNegMotionDetected	MPU6050.cpp	/^bool MPU6050::getXNegMotionDetected() {$/;"	f	class:MPU6050
+getXPosMotionDetected	MPU6050.cpp	/^bool MPU6050::getXPosMotionDetected() {$/;"	f	class:MPU6050
+getYAccelOffset	MPU6050.cpp	/^int16_t MPU6050::getYAccelOffset() {$/;"	f	class:MPU6050
+getYFineGain	MPU6050.cpp	/^int8_t MPU6050::getYFineGain() {$/;"	f	class:MPU6050
+getYGyroFIFOEnabled	MPU6050.cpp	/^bool MPU6050::getYGyroFIFOEnabled() {$/;"	f	class:MPU6050
+getYGyroOffset	MPU6050.cpp	/^int16_t MPU6050::getYGyroOffset() {$/;"	f	class:MPU6050
+getYGyroOffsetTC	MPU6050.cpp	/^int8_t MPU6050::getYGyroOffsetTC() {$/;"	f	class:MPU6050
+getYNegMotionDetected	MPU6050.cpp	/^bool MPU6050::getYNegMotionDetected() {$/;"	f	class:MPU6050
+getYPosMotionDetected	MPU6050.cpp	/^bool MPU6050::getYPosMotionDetected() {$/;"	f	class:MPU6050
+getZAccelOffset	MPU6050.cpp	/^int16_t MPU6050::getZAccelOffset() {$/;"	f	class:MPU6050
+getZFineGain	MPU6050.cpp	/^int8_t MPU6050::getZFineGain() {$/;"	f	class:MPU6050
+getZGyroFIFOEnabled	MPU6050.cpp	/^bool MPU6050::getZGyroFIFOEnabled() {$/;"	f	class:MPU6050
+getZGyroOffset	MPU6050.cpp	/^int16_t MPU6050::getZGyroOffset() {$/;"	f	class:MPU6050
+getZGyroOffsetTC	MPU6050.cpp	/^int8_t MPU6050::getZGyroOffsetTC() {$/;"	f	class:MPU6050
+getZNegMotionDetected	MPU6050.cpp	/^bool MPU6050::getZNegMotionDetected() {$/;"	f	class:MPU6050
+getZPosMotionDetected	MPU6050.cpp	/^bool MPU6050::getZPosMotionDetected() {$/;"	f	class:MPU6050
+getZeroMotionDetected	MPU6050.cpp	/^bool MPU6050::getZeroMotionDetected() {$/;"	f	class:MPU6050
+getZeroMotionDetectionDuration	MPU6050.cpp	/^uint8_t MPU6050::getZeroMotionDetectionDuration() {$/;"	f	class:MPU6050
+getZeroMotionDetectionThreshold	MPU6050.cpp	/^uint8_t MPU6050::getZeroMotionDetectionThreshold() {$/;"	f	class:MPU6050
+initialize	MPU6050.cpp	/^void MPU6050::initialize() {$/;"	f	class:MPU6050
+lima	MPU6050.h	/^        double lima,limg;  \/\/limits of acc and gyro eg: 2g for +-2g range of acc and similarly for gyro.$/;"	m	class:MPU6050
+limg	MPU6050.h	/^        double lima,limg;  \/\/limits of acc and gyro eg: 2g for +-2g range of acc and similarly for gyro.$/;"	m	class:MPU6050
+readBit	I2Cdev.cpp	/^int8_t I2Cdev::readBit(uint8_t devAddr, uint8_t regAddr, uint8_t bitNum, uint8_t *data) {$/;"	f	class:I2Cdev
+readBitW	I2Cdev.cpp	/^int8_t I2Cdev::readBitW(uint8_t devAddr, uint8_t regAddr, uint8_t bitNum, uint16_t *data) {$/;"	f	class:I2Cdev
+readBits	I2Cdev.cpp	/^int8_t I2Cdev::readBits(uint8_t devAddr, uint8_t regAddr, uint8_t bitStart, uint8_t length, uint8_t *data) {$/;"	f	class:I2Cdev
+readBitsW	I2Cdev.cpp	/^int8_t I2Cdev::readBitsW(uint8_t devAddr, uint8_t regAddr, uint8_t bitStart, uint8_t length, uint16_t *data) {$/;"	f	class:I2Cdev
+readByte	I2Cdev.cpp	/^int8_t I2Cdev::readByte(uint8_t devAddr, uint8_t regAddr, uint8_t *data) {$/;"	f	class:I2Cdev
+readBytes	I2Cdev.cpp	/^int8_t I2Cdev::readBytes(uint8_t devAddr, uint8_t regAddr, uint8_t length, uint8_t *data) {$/;"	f	class:I2Cdev
+readWord	I2Cdev.cpp	/^int8_t I2Cdev::readWord(uint8_t devAddr, uint8_t regAddr, uint16_t *data) {$/;"	f	class:I2Cdev
+readWords	I2Cdev.cpp	/^int8_t I2Cdev::readWords(uint8_t devAddr, uint8_t regAddr, uint8_t length, uint16_t *data) {$/;"	f	class:I2Cdev
+reset	MPU6050.cpp	/^void MPU6050::reset() {$/;"	f	class:MPU6050
+resetAccelerometerPath	MPU6050.cpp	/^void MPU6050::resetAccelerometerPath() {$/;"	f	class:MPU6050
+resetFIFO	MPU6050.cpp	/^void MPU6050::resetFIFO() {$/;"	f	class:MPU6050
+resetGyroscopePath	MPU6050.cpp	/^void MPU6050::resetGyroscopePath() {$/;"	f	class:MPU6050
+resetI2CMaster	MPU6050.cpp	/^void MPU6050::resetI2CMaster() {$/;"	f	class:MPU6050
+resetSensors	MPU6050.cpp	/^void MPU6050::resetSensors() {$/;"	f	class:MPU6050
+resetTemperaturePath	MPU6050.cpp	/^void MPU6050::resetTemperaturePath() {$/;"	f	class:MPU6050
+setAccelFIFOEnabled	MPU6050.cpp	/^void MPU6050::setAccelFIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setAccelXSelfTest	MPU6050.cpp	/^void MPU6050::setAccelXSelfTest(bool enabled) {$/;"	f	class:MPU6050
+setAccelYSelfTest	MPU6050.cpp	/^void MPU6050::setAccelYSelfTest(bool enabled) {$/;"	f	class:MPU6050
+setAccelZSelfTest	MPU6050.cpp	/^void MPU6050::setAccelZSelfTest(bool enabled) {$/;"	f	class:MPU6050
+setAccelerometerPowerOnDelay	MPU6050.cpp	/^void MPU6050::setAccelerometerPowerOnDelay(uint8_t delay) {$/;"	f	class:MPU6050
+setAuxVDDIOLevel	MPU6050.cpp	/^void MPU6050::setAuxVDDIOLevel(uint8_t level) {$/;"	f	class:MPU6050
+setClockOutputEnabled	MPU6050.cpp	/^void MPU6050::setClockOutputEnabled(bool enabled) {$/;"	f	class:MPU6050
+setClockSource	MPU6050.cpp	/^void MPU6050::setClockSource(uint8_t source) {$/;"	f	class:MPU6050
+setDHPFMode	MPU6050.cpp	/^void MPU6050::setDHPFMode(uint8_t bandwidth) {$/;"	f	class:MPU6050
+setDLPFMode	MPU6050.cpp	/^void MPU6050::setDLPFMode(uint8_t mode) {$/;"	f	class:MPU6050
+setDeviceID	MPU6050.cpp	/^void MPU6050::setDeviceID(uint8_t id) {$/;"	f	class:MPU6050
+setExternalFrameSync	MPU6050.cpp	/^void MPU6050::setExternalFrameSync(uint8_t sync) {$/;"	f	class:MPU6050
+setExternalShadowDelayEnabled	MPU6050.cpp	/^void MPU6050::setExternalShadowDelayEnabled(bool enabled) {$/;"	f	class:MPU6050
+setFIFOByte	MPU6050.cpp	/^void MPU6050::setFIFOByte(uint8_t data) {$/;"	f	class:MPU6050
+setFIFOEnabled	MPU6050.cpp	/^void MPU6050::setFIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setFSyncInterruptEnabled	MPU6050.cpp	/^void MPU6050::setFSyncInterruptEnabled(bool enabled) {$/;"	f	class:MPU6050
+setFSyncInterruptLevel	MPU6050.cpp	/^void MPU6050::setFSyncInterruptLevel(bool level) {$/;"	f	class:MPU6050
+setFreefallDetectionCounterDecrement	MPU6050.cpp	/^void MPU6050::setFreefallDetectionCounterDecrement(uint8_t decrement) {$/;"	f	class:MPU6050
+setFreefallDetectionDuration	MPU6050.cpp	/^void MPU6050::setFreefallDetectionDuration(uint8_t duration) {$/;"	f	class:MPU6050
+setFreefallDetectionThreshold	MPU6050.cpp	/^void MPU6050::setFreefallDetectionThreshold(uint8_t threshold) {$/;"	f	class:MPU6050
+setFullScaleAccelRange	MPU6050.cpp	/^void MPU6050::setFullScaleAccelRange(uint8_t range) {$/;"	f	class:MPU6050
+setFullScaleGyroRange	MPU6050.cpp	/^void MPU6050::setFullScaleGyroRange(uint8_t range) {$/;"	f	class:MPU6050
+setI2CBypassEnabled	MPU6050.cpp	/^void MPU6050::setI2CBypassEnabled(bool enabled) {$/;"	f	class:MPU6050
+setI2CMasterModeEnabled	MPU6050.cpp	/^void MPU6050::setI2CMasterModeEnabled(bool enabled) {$/;"	f	class:MPU6050
+setIntDMPEnabled	MPU6050.cpp	/^void MPU6050::setIntDMPEnabled(bool enabled) {$/;"	f	class:MPU6050
+setIntDataReadyEnabled	MPU6050.cpp	/^void MPU6050::setIntDataReadyEnabled(bool enabled) {$/;"	f	class:MPU6050
+setIntEnabled	MPU6050.cpp	/^void MPU6050::setIntEnabled(uint8_t enabled) {$/;"	f	class:MPU6050
+setIntFIFOBufferOverflowEnabled	MPU6050.cpp	/^void MPU6050::setIntFIFOBufferOverflowEnabled(bool enabled) {$/;"	f	class:MPU6050
+setIntFreefallEnabled	MPU6050.cpp	/^void MPU6050::setIntFreefallEnabled(bool enabled) {$/;"	f	class:MPU6050
+setIntI2CMasterEnabled	MPU6050.cpp	/^void MPU6050::setIntI2CMasterEnabled(bool enabled) {$/;"	f	class:MPU6050
+setIntMotionEnabled	MPU6050.cpp	/^void MPU6050::setIntMotionEnabled(bool enabled) {$/;"	f	class:MPU6050
+setIntPLLReadyEnabled	MPU6050.cpp	/^void MPU6050::setIntPLLReadyEnabled(bool enabled) {$/;"	f	class:MPU6050
+setIntZeroMotionEnabled	MPU6050.cpp	/^void MPU6050::setIntZeroMotionEnabled(bool enabled) {$/;"	f	class:MPU6050
+setInterruptDrive	MPU6050.cpp	/^void MPU6050::setInterruptDrive(bool drive) {$/;"	f	class:MPU6050
+setInterruptLatch	MPU6050.cpp	/^void MPU6050::setInterruptLatch(bool latch) {$/;"	f	class:MPU6050
+setInterruptLatchClear	MPU6050.cpp	/^void MPU6050::setInterruptLatchClear(bool clear) {$/;"	f	class:MPU6050
+setInterruptMode	MPU6050.cpp	/^void MPU6050::setInterruptMode(bool mode) {$/;"	f	class:MPU6050
+setMasterClockSpeed	MPU6050.cpp	/^void MPU6050::setMasterClockSpeed(uint8_t speed) {$/;"	f	class:MPU6050
+setMotionDetectionCounterDecrement	MPU6050.cpp	/^void MPU6050::setMotionDetectionCounterDecrement(uint8_t decrement) {$/;"	f	class:MPU6050
+setMotionDetectionDuration	MPU6050.cpp	/^void MPU6050::setMotionDetectionDuration(uint8_t duration) {$/;"	f	class:MPU6050
+setMotionDetectionThreshold	MPU6050.cpp	/^void MPU6050::setMotionDetectionThreshold(uint8_t threshold) {$/;"	f	class:MPU6050
+setMultiMasterEnabled	MPU6050.cpp	/^void MPU6050::setMultiMasterEnabled(bool enabled) {$/;"	f	class:MPU6050
+setOTPBankValid	MPU6050.cpp	/^void MPU6050::setOTPBankValid(bool enabled) {$/;"	f	class:MPU6050
+setRate	MPU6050.cpp	/^void MPU6050::setRate(uint8_t rate) {$/;"	f	class:MPU6050
+setSlave0FIFOEnabled	MPU6050.cpp	/^void MPU6050::setSlave0FIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setSlave1FIFOEnabled	MPU6050.cpp	/^void MPU6050::setSlave1FIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setSlave2FIFOEnabled	MPU6050.cpp	/^void MPU6050::setSlave2FIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setSlave3FIFOEnabled	MPU6050.cpp	/^void MPU6050::setSlave3FIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setSlave4Address	MPU6050.cpp	/^void MPU6050::setSlave4Address(uint8_t address) {$/;"	f	class:MPU6050
+setSlave4Enabled	MPU6050.cpp	/^void MPU6050::setSlave4Enabled(bool enabled) {$/;"	f	class:MPU6050
+setSlave4InterruptEnabled	MPU6050.cpp	/^void MPU6050::setSlave4InterruptEnabled(bool enabled) {$/;"	f	class:MPU6050
+setSlave4MasterDelay	MPU6050.cpp	/^void MPU6050::setSlave4MasterDelay(uint8_t delay) {$/;"	f	class:MPU6050
+setSlave4OutputByte	MPU6050.cpp	/^void MPU6050::setSlave4OutputByte(uint8_t data) {$/;"	f	class:MPU6050
+setSlave4Register	MPU6050.cpp	/^void MPU6050::setSlave4Register(uint8_t reg) {$/;"	f	class:MPU6050
+setSlave4WriteMode	MPU6050.cpp	/^void MPU6050::setSlave4WriteMode(bool mode) {$/;"	f	class:MPU6050
+setSlaveAddress	MPU6050.cpp	/^void MPU6050::setSlaveAddress(uint8_t num, uint8_t address) {$/;"	f	class:MPU6050
+setSlaveDataLength	MPU6050.cpp	/^void MPU6050::setSlaveDataLength(uint8_t num, uint8_t length) {$/;"	f	class:MPU6050
+setSlaveDelayEnabled	MPU6050.cpp	/^void MPU6050::setSlaveDelayEnabled(uint8_t num, bool enabled) {$/;"	f	class:MPU6050
+setSlaveEnabled	MPU6050.cpp	/^void MPU6050::setSlaveEnabled(uint8_t num, bool enabled) {$/;"	f	class:MPU6050
+setSlaveOutputByte	MPU6050.cpp	/^void MPU6050::setSlaveOutputByte(uint8_t num, uint8_t data) {$/;"	f	class:MPU6050
+setSlaveReadWriteTransitionEnabled	MPU6050.cpp	/^void MPU6050::setSlaveReadWriteTransitionEnabled(bool enabled) {$/;"	f	class:MPU6050
+setSlaveRegister	MPU6050.cpp	/^void MPU6050::setSlaveRegister(uint8_t num, uint8_t reg) {$/;"	f	class:MPU6050
+setSlaveWordByteSwap	MPU6050.cpp	/^void MPU6050::setSlaveWordByteSwap(uint8_t num, bool enabled) {$/;"	f	class:MPU6050
+setSlaveWordGroupOffset	MPU6050.cpp	/^void MPU6050::setSlaveWordGroupOffset(uint8_t num, bool enabled) {$/;"	f	class:MPU6050
+setSlaveWriteMode	MPU6050.cpp	/^void MPU6050::setSlaveWriteMode(uint8_t num, bool mode) {$/;"	f	class:MPU6050
+setSleepEnabled	MPU6050.cpp	/^void MPU6050::setSleepEnabled(bool enabled) {$/;"	f	class:MPU6050
+setStandbyXAccelEnabled	MPU6050.cpp	/^void MPU6050::setStandbyXAccelEnabled(bool enabled) {$/;"	f	class:MPU6050
+setStandbyXGyroEnabled	MPU6050.cpp	/^void MPU6050::setStandbyXGyroEnabled(bool enabled) {$/;"	f	class:MPU6050
+setStandbyYAccelEnabled	MPU6050.cpp	/^void MPU6050::setStandbyYAccelEnabled(bool enabled) {$/;"	f	class:MPU6050
+setStandbyYGyroEnabled	MPU6050.cpp	/^void MPU6050::setStandbyYGyroEnabled(bool enabled) {$/;"	f	class:MPU6050
+setStandbyZAccelEnabled	MPU6050.cpp	/^void MPU6050::setStandbyZAccelEnabled(bool enabled) {$/;"	f	class:MPU6050
+setStandbyZGyroEnabled	MPU6050.cpp	/^void MPU6050::setStandbyZGyroEnabled(bool enabled) {$/;"	f	class:MPU6050
+setTempFIFOEnabled	MPU6050.cpp	/^void MPU6050::setTempFIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setTempSensorEnabled	MPU6050.cpp	/^void MPU6050::setTempSensorEnabled(bool enabled) {$/;"	f	class:MPU6050
+setWaitForExternalSensorEnabled	MPU6050.cpp	/^void MPU6050::setWaitForExternalSensorEnabled(bool enabled) {$/;"	f	class:MPU6050
+setWakeCycleEnabled	MPU6050.cpp	/^void MPU6050::setWakeCycleEnabled(bool enabled) {$/;"	f	class:MPU6050
+setWakeFrequency	MPU6050.cpp	/^void MPU6050::setWakeFrequency(uint8_t frequency) {$/;"	f	class:MPU6050
+setXAccelOffset	MPU6050.cpp	/^void MPU6050::setXAccelOffset(int16_t offset) {$/;"	f	class:MPU6050
+setXFineGain	MPU6050.cpp	/^void MPU6050::setXFineGain(int8_t gain) {$/;"	f	class:MPU6050
+setXGyroFIFOEnabled	MPU6050.cpp	/^void MPU6050::setXGyroFIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setXGyroOffset	MPU6050.cpp	/^void MPU6050::setXGyroOffset(int16_t offset) {$/;"	f	class:MPU6050
+setXGyroOffsetTC	MPU6050.cpp	/^void MPU6050::setXGyroOffsetTC(int8_t offset) {$/;"	f	class:MPU6050
+setYAccelOffset	MPU6050.cpp	/^void MPU6050::setYAccelOffset(int16_t offset) {$/;"	f	class:MPU6050
+setYFineGain	MPU6050.cpp	/^void MPU6050::setYFineGain(int8_t gain) {$/;"	f	class:MPU6050
+setYGyroFIFOEnabled	MPU6050.cpp	/^void MPU6050::setYGyroFIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setYGyroOffset	MPU6050.cpp	/^void MPU6050::setYGyroOffset(int16_t offset) {$/;"	f	class:MPU6050
+setYGyroOffsetTC	MPU6050.cpp	/^void MPU6050::setYGyroOffsetTC(int8_t offset) {$/;"	f	class:MPU6050
+setZAccelOffset	MPU6050.cpp	/^void MPU6050::setZAccelOffset(int16_t offset) {$/;"	f	class:MPU6050
+setZFineGain	MPU6050.cpp	/^void MPU6050::setZFineGain(int8_t gain) {$/;"	f	class:MPU6050
+setZGyroFIFOEnabled	MPU6050.cpp	/^void MPU6050::setZGyroFIFOEnabled(bool enabled) {$/;"	f	class:MPU6050
+setZGyroOffset	MPU6050.cpp	/^void MPU6050::setZGyroOffset(int16_t offset) {$/;"	f	class:MPU6050
+setZGyroOffsetTC	MPU6050.cpp	/^void MPU6050::setZGyroOffsetTC(int8_t offset) {$/;"	f	class:MPU6050
+setZeroMotionDetectionDuration	MPU6050.cpp	/^void MPU6050::setZeroMotionDetectionDuration(uint8_t duration) {$/;"	f	class:MPU6050
+setZeroMotionDetectionThreshold	MPU6050.cpp	/^void MPU6050::setZeroMotionDetectionThreshold(uint8_t threshold) {$/;"	f	class:MPU6050
+switchSPIEnabled	MPU6050.cpp	/^void MPU6050::switchSPIEnabled(bool enabled) {$/;"	f	class:MPU6050
+testConnection	MPU6050.cpp	/^bool MPU6050::testConnection() {$/;"	f	class:MPU6050
+tv	SimpleTimer.h	/^	struct timeval tv;$/;"	m	class:SimpleTimer	typeref:struct:SimpleTimer::timeval
+tz	SimpleTimer.h	/^	struct timezone tz;$/;"	m	class:SimpleTimer	typeref:struct:SimpleTimer::timezone
+writeBit	I2Cdev.cpp	/^bool I2Cdev::writeBit(uint8_t devAddr, uint8_t regAddr, uint8_t bitNum, uint8_t data) {$/;"	f	class:I2Cdev
+writeBitW	I2Cdev.cpp	/^bool I2Cdev::writeBitW(uint8_t devAddr, uint8_t regAddr, uint8_t bitNum, uint16_t data) {$/;"	f	class:I2Cdev
+writeBits	I2Cdev.cpp	/^bool I2Cdev::writeBits(uint8_t devAddr, uint8_t regAddr, uint8_t bitStart, uint8_t length, uint8_t data) {$/;"	f	class:I2Cdev
+writeBitsW	I2Cdev.cpp	/^bool I2Cdev::writeBitsW(uint8_t devAddr, uint8_t regAddr, uint8_t bitStart, uint8_t length, uint16_t data) {$/;"	f	class:I2Cdev
+writeByte	I2Cdev.cpp	/^bool I2Cdev::writeByte(uint8_t devAddr, uint8_t regAddr, uint8_t data) {$/;"	f	class:I2Cdev
+writeBytes	I2Cdev.cpp	/^bool I2Cdev::writeBytes(uint8_t devAddr, uint8_t regAddr, uint8_t length, uint8_t* data) {$/;"	f	class:I2Cdev
+writeWord	I2Cdev.cpp	/^bool I2Cdev::writeWord(uint8_t devAddr, uint8_t regAddr, uint16_t data) {$/;"	f	class:I2Cdev
+writeWords	I2Cdev.cpp	/^bool I2Cdev::writeWords(uint8_t devAddr, uint8_t regAddr, uint8_t length, uint16_t* data) {$/;"	f	class:I2Cdev
