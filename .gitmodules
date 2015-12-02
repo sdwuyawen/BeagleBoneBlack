@@ -1,0 +1,6 @@
+[submodule "ds1302"]
+	path = ds1302
+	url = ./ds1302
+[submodule "i2c"]
+	path = i2c
+	url = ./i2c
