@@ -68,6 +68,13 @@ static ssize_t numberPresses_store(struct kobject *kobj, struct kobj_attribute *
    return count;
 }
 
+/* 和__ATTR_RO(ledOn)对应的回调函数，具体实现如下：
+ *
+ *	#define __ATTR_RO(_name) { \
+ *		.attr	= { .name = __stringify(_name), .mode = 0444 },	\
+ *		.show	= _name##_show,					\
+ *	}
+ */
 /** @brief Displays if the LED is on or off */
 static ssize_t ledOn_show(struct kobject *kobj, struct kobj_attribute *attr, char *buf){
    return sprintf(buf, "%d\n", ledOn);
